@@ -3,14 +3,13 @@
  * Plugin Name: Globs
  * Plugin URI:  https://https://da.vebrig.gs/plugins
  * Description: Globs are repeatable bits of content that you edit once and place anywhere on your site, as many times as you like.
- * Version:     1.3.0
+ * Version:     2.0
  * Author:      Dave Briggs
  * Author URI:  https://da.vebrig.gs/
  * License:     GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: globs
  */
-
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit accessed directly.
